@@ -1,0 +1,28 @@
+// A variable statement
+char** identifier1[500], identifier2["a_string"];
+int*** identifier3, identifier4[an_identifier];
+char** identifier1[500];
+// A function statement
+void a_function(char parameter1, byref double parameter2) 
+
+// A function_declaration
+double a_function(char parameter1, byref double parameter2){
+	// A statement
+	void a_function(char parameter1, byref double parameter2);
+	// An another statement
+	void another_function();
+	
+	// A statement
+	if () 
+		return 0; 
+	else{ 
+		new ;
+		for (i=0; i<=counter; i++)
+			counter--;
+	}
+	break uknownID;
+	identifier1 = ;
+	identifier1 = "test";
+	identifier3 = "test";
+}
+	
